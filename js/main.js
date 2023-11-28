@@ -7,6 +7,7 @@ const nombreProductoFunc = () => {
 nombreProducto = nombreProductoFunc()
 
 
+
 const cargaDatosInsumos = (nombre) => {
     let respuesta 
     let costoAcumulado = 0
